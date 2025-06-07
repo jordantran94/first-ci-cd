@@ -1,5 +1,6 @@
 <?php
-namespace CustomClass
+
+namespace CustomClass;
 
 class HelloWorld
 {
