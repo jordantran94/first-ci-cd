@@ -1,10 +1,9 @@
 <?php
 
-    class  HelloWorld
+class HelloWorld
+{
+    public function sayHello()
     {
-        public function sayHello()
-        {
-            echo 'Hello, World!';
-        }
+        echo 'Hello, World!';
     }
-?>
+}
